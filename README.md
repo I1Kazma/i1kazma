@@ -1,5 +1,5 @@
 # 💫 About Me:
-A driven front-end developer with over 2.5 years of experience building and optimizing responsive web applications using React, TypeScript, and JavaScript. Expert in developing high-performance solutions, reducing page load times by 40%, and increasing conversions by 10%. Confidently working in Agile teams, integrating APIs, and collaborating with cross-functional teams to build scalable products.
+A driven front-end developer with over 3 years of experience building and optimizing responsive web applications using React, TypeScript, and JavaScript. Expert in developing high-performance solutions, reducing page load times by 40%, and increasing conversions by 10%. Confidently working in Agile teams, integrating APIs, and collaborating with cross-functional teams to build scalable products.
 
 
 ## 🌐 Socials:
